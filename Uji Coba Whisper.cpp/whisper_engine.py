@@ -1,5 +1,3 @@
-# File: whisper_engine.py
-
 import os
 from whisper_cpp_python import Whisper
 import numpy as np

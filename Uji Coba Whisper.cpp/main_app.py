@@ -1,5 +1,3 @@
-# File: main_app.py
-
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
 from tkinter.scrolledtext import ScrolledText
