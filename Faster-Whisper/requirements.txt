@@ -1,4 +1,4 @@
-whisper-cpp-python
+faster_whisper
 ttkthemes
 sounddevice
 numpy
